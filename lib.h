@@ -1,6 +1,5 @@
-#ifndef COMPITO6_CONVERSIONELETTERE_LIBRERIALETTERE_H
-#define COMPITO6_CONVERSIONELETTERE_LIBRERIALETTERE_H
+#ifndef ESERCIZIO_7_LIB_H
+#define ESERCIZIO_7_LIB_H
+bool numeriprimi(int n,int d=2)
 
-bool numeriprimi(int n);
-
-#endif 
+#endif //ESERCIZIO_7_LIB_H
